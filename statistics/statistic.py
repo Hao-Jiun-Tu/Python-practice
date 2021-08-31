@@ -10,7 +10,7 @@ print(data)
 data = random.uniform(60, 100) # random number betwenn 60 to 100
 print(data)
 # normal distribution
-# mean = 100, std = 10
+# mean = 100, stdev = 10
 data = random.normalvariate(100, 10)
 print(data)
 

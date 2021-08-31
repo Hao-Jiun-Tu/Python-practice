@@ -1,9 +1,9 @@
 # DATA TYPE
-# NUMBER
+# num
 31415
 3.1415
 
-# STRINGS
+# string
 "Testing"
 'Testing'
 print("Testing")
@@ -11,26 +11,26 @@ print('Testing')
 print("'Testing'")
 print("\"Testing\"")
 
-# BOOLEAN
+# boolean
 True
 False
 
-# LIST
+# list
 [3,4,5]
 ["Hello", "World"]
 
-# TUPLE
+# tuple
 (3,4,5)
 ("Hello", "World")
 
-# SET
+# set
 {3,4,5}
 {"Hello", "World"}
 
-# DICTIONARY
+# dictionary
 {"apple" : "fruit", "python" : "program"}
 
-# DATA
+# data
 x = 3
 print(x)
 x = True

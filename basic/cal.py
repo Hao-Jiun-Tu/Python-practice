@@ -1,18 +1,18 @@
 # CALCULATIONS
 
-# DIV
+# cal
 x = 10 / 4  # = 2.5
 print(x)
 x = 10 // 4 # = 2
 print(x)
-# POWER
+# power
 x = 2 ** 2
 print(x)
-# SQRT
+# sqrt
 x = 2 ** 0.5
 print(x)
 
-# STRING CAL
+# string cal
 s = "Hello" * 3 + "World"
 print(s)
 s = """Hello

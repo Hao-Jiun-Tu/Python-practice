@@ -18,5 +18,7 @@ with req.urlopen(request) as response:
 result = json.loads(result)
 #print(result["data"]["webRankedModules"]["modules"][0]["items"][0]["post"]["title"])
 items = result["data"]["webRankedModules"]["modules"][0]["items"]
-for item in items:
-    print(item["post"]["title"])
+with open("data_ajax.txt", mode = "w", encoding = "utf-8") as file:
+    for item in items:
+        print(item["post"]["title"])
+        file.write(item["post"]["title"] + "\n")

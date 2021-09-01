@@ -7,7 +7,7 @@ print(data)
 data = [1, 5, 8, 20]
 random.shuffle(data)           # change order randomly
 print(data)
-data = random.uniform(60, 100) # random number betwenn 60 to 100
+data = random.uniform(60, 100) # random number between 60 to 100
 print(data)
 # normal distribution
 # mean = 100, stdev = 10

@@ -42,5 +42,5 @@ print(data)
 print("=======================")
 
 # High-D array
-data = np.ones([2, 1, 1, 2]) # 2x1x1x2 array, all data are assigned to 1
+data = np.ones([2, 1, 1, 2]) # 2x1x1x2 array, all data is assigned to 1
 print(data)

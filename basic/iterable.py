@@ -17,7 +17,7 @@ for key in dic:
     print(key)
     print(dic[key])
 
-# function
+# functions
 # max(iterable-data)
 # sorted(iterable-data)
 result = max("abc")

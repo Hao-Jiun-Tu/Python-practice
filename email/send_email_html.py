@@ -12,8 +12,7 @@ It's been a long time since we last met!<br> \
 ...<br> \
 ...<br> \
 <h3>Best Regards,<br> \
-Alice</h3> \
-\n", subtype = "html")
+Alice</h3> ", subtype = "html")
 
 # SMTP lib sending mails
 import smtplib

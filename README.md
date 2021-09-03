@@ -28,3 +28,7 @@ Some common functions &amp; modules in python will be demonstrated.
     - Url.request module - catch data from network (`crawler.py`, `crawler_cookie.py`, `crawler_ajax.py`)
     - BeautifulSoup module - html data format analysis (`crawler.py`, `crawler_cookie.py`)
     - Crawler for AJAX/XHR technique (`crawler_ajax.py`)
+## To Be Continue
+- Matplotlib
+- Keras
+- PyTorch
